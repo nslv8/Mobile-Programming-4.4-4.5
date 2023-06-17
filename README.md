@@ -1,26 +1,7 @@
-# Words App
+#Mobile-Programming-4.4-4.5
 
-This folder contains the source code for the Words app codelab.
+Ndang Selvia Ningrum - 105220030
 
-
-# Introduction
-Words app allows you to select a letter and use Intents to navigate to an Activity that
-presents a number of words starting with that letter. Each word can be looked up via a web search.
-
-Words app contains a scrollable list of 26 letters A to Z in a RecyclerView. The orientation
-of the RecyclerView can be changed between a vertical list or a grid of items.
-
-The app demonstrates the use of Intents in two ways:
-* to navigate inside an app by specifying an explicit destination, and,
-* allowing Android to service the Intent using the apps and resources present on the device.
-
-# Pre-requisites
-* Experience with Kotlin syntax.
-* Able to create an Activity.
-* Able to create a RecyclerView and supply it with data.
-
-# Getting Started
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+<img width="130" alt="image" src="https://github.com/nslv8/Mobile-Programming-4.4-4.5/assets/101075703/5f8d9578-9aab-486e-ab34-5e644a2323a6">
+<img width="138" alt="image" src="https://github.com/nslv8/Mobile-Programming-4.4-4.5/assets/101075703/09d0a432-baaf-4fd5-8d93-392bca4693ff">
+<img width="132" alt="image" src="https://github.com/nslv8/Mobile-Programming-4.4-4.5/assets/101075703/4caebb14-29a6-405f-b484-d67d9c036edb">
